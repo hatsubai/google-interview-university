@@ -2,19 +2,13 @@
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
-
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know. 
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from 
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected 
-sometimes word-for-word in Google's coaching notes.
+This is a fork off of the google-interview-study Github repository that [jwasham created](https://github.com/jwasham/google-interview-university). It is for personal reference for me to modify to my hearts content and is not necessarily meant to merge back to master.
 
 ---
 
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
